@@ -1,4 +1,4 @@
 # first-demo
-this is m6 first github demo
+this is my first github demo
 <br>
 author: Nikunj Vaghani
